@@ -101,6 +101,7 @@ Array2D<std::string> generateRandom()
 	}
 	return generation;
 }
+// ADD
 Array2D<std::string> readFromFile(std::string filename)
 {
 	std::ifstream infile;
